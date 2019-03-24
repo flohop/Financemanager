@@ -4,7 +4,7 @@ import matplotlib as mpl
 import numpy as np
 from pylab import rcParams
 
-from Finanzmanager.graph import value_manager
+from Financemanager.graph import value_manager
 
 """Give, how much you made each day, and it draws the graph
      y_money = int of how much you made each day
