@@ -1,7 +1,7 @@
 import wx
 
-from Finanzmanager import graph
-from Finanzmanager.graph import graph_draw, value_manager
+from Financemanager import graph
+from Financemanager.graph import graph_draw, value_manager
 
 
 
