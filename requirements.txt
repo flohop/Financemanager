@@ -1,0 +1,4 @@
+MyApp
+matplotlib==3.0.1
+numpy==1.15.3
+wxPython==4.0.4
