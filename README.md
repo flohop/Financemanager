@@ -1,6 +1,12 @@
 # Financemanager
 Manage your finances with this application. Add how much you made/lost today, your financial goals, your monthly transactions and click on a button, to be shown a graph depicting your financial situation
 
+
+
+![alt text](dependencies/03.gif)
+
+
+
 dependencies: Here are all the .csv-files stored, that store valuable information for the programm in order to run properly
 
 graph-->value_manager: Here are all the functions that write, append or read .csv files.
